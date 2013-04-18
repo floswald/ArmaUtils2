@@ -1,0 +1,11 @@
+Package: ArmaUtils2
+Type: Package
+Title: What the package does (short line)
+Version: 1.0
+Date: 2013-04-18
+Author: Florian Oswald
+Maintainer: Florian Oswald <florian.oswald@gmail.com>
+Description: More about what it does (maybe more than one line)
+License: What Licence is it under ?
+Depends: Rcpp (>= 0.10.3)
+LinkingTo: Rcpp
